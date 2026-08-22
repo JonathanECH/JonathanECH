@@ -28,10 +28,10 @@ Actualmente estoy profundizando en el framework **Vue 3**, mientras sigo repasan
       <img src="https://techbadges.santosr.xyz/icons?i=windows,linux,mint,git" alt="Entorno y control de versiones">
     </picture>
     <br>
-    <!-- Fila 4: 2 iconos -->
+    <!-- Fila 4: 3 iconos -->
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://techbadges.santosr.xyz/icons?i=github,netlify&theme=light">
-      <img src="https://techbadges.santosr.xyz/icons?i=github,netlify" alt="Plataformas">
+      <img src="https://techbadges.santosr.xyz/icons?i=github,postman,netlify" alt="Plataformas">
     </picture>
   </a>
 </p>
