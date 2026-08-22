@@ -50,6 +50,10 @@ Un sistema integral de gestión de pacientes que permite registrar, procesar y d
 - **Administrador:** Gestión total del sistema (agregar, modificar y desactivar roles y usuarios).
 *(Desarrollado con Angular)*
 
+#### 🐾 Administrador de Pacientes - Veterinaria
+Una aplicación web práctica para la gestión y seguimiento de pacientes en una clínica veterinaria. 
+*(Desarrollado con Vue 3)* | [Ver Demo en vivo](https://admin-pacientes-veterinaria-vue.netlify.app/)
+
 ### 📫 Cómo contactarme
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathancamposbusiness@gmail.com)
