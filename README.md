@@ -8,24 +8,33 @@ Mi objetivo profesional es mejorar constantemente mi lógica de programación mi
 Actualmente estoy profundizando en el framework **Vue 3**, mientras sigo repasando y consolidando mis conocimientos en las tecnologías core de la web: **HTML, CSS y JavaScript**.
 
 ### 🛠️ Tecnologías y Herramientas
-**Lenguajes de Programación:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Frontend & Diseño Web:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Entorno & Sistemas Operativos:**
-![Windows10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://techbadges.santosr.xyz">
+    <!-- Fila 1: 6 iconos -->
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://techbadges.santosr.xyz/icons?i=html,css,js,ts,vue,angular&theme=light">
+      <img src="https://techbadges.santosr.xyz/icons?i=html,css,js,ts,vue,angular" alt="Tecnologías principales">
+    </picture>
+    <br>
+    <!-- Fila 2: 5 iconos -->
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://techbadges.santosr.xyz/icons?i=tailwind,vite,py,c,cs&theme=light">
+      <img src="https://techbadges.santosr.xyz/icons?i=tailwind,vite,py,c,cs" alt="Herramientas y otros lenguajes">
+    </picture>
+    <br>
+    <!-- Fila 3: 4 iconos -->
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://techbadges.santosr.xyz/icons?i=windows,linux,mint,git&theme=light">
+      <img src="https://techbadges.santosr.xyz/icons?i=windows,linux,mint,git" alt="Entorno y control de versiones">
+    </picture>
+    <br>
+    <!-- Fila 4: 2 iconos -->
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://techbadges.santosr.xyz/icons?i=github,netlify&theme=light">
+      <img src="https://techbadges.santosr.xyz/icons?i=github,netlify" alt="Plataformas">
+    </picture>
+  </a>
+</p>
 
 ### 📂 Proyectos Destacados
 
