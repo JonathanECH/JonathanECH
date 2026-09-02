@@ -54,6 +54,10 @@ Un sistema integral de gestión de pacientes que permite registrar, procesar y d
 Una aplicación web práctica para la gestión y seguimiento de pacientes en una clínica veterinaria. 
 *(Desarrollado con Vue 3)* | [Ver Demo en vivo](https://admin-pacientes-veterinaria-vue.netlify.app/)
 
+#### 💰 Administrador de Gastos - Gestión de dinero
+Una aplicación web práctica para la gestión y seguimiento de nuestros gastos diarios o semanales. 
+*(Desarrollado con Vue 3)* | [Ver Demo en vivo](https://admin-gastos-cyan.vercel.app/)
+
 ### 📫 Cómo contactarme
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathancamposbusiness@gmail.com)
