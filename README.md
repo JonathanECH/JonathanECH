@@ -63,4 +63,6 @@ Una aplicación web práctica para la gestión y seguimiento de nuestros gastos 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathancamposbusiness@gmail.com)
 
 ---
-💻 *¿Tienes una idea en mente? Convirtámosla en realidad.*
+>#### 💻 *``¿Tienes una idea en mente? ¡Convirtámosla en realidad! ``*
+>
+>**Cuéntanos que necesitas, comparte tu propuesta y construyamos algo increíble juntos.**
